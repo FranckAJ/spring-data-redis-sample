@@ -1,0 +1,24 @@
+{
+  "name": "spring-data-redis-sample",
+  "homepage": "https://github.com/FranckAJ/spring-data-redis-sample",
+  "authors": [
+    "Franck Aragão <fjunior.aragao@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ng-file-upload-shim": "^12.2.13",
+    "angular": "^1.6.4",
+    "jquery": "^3.2.1",
+    "angular-route": "^1.6.4"
+  }
+}

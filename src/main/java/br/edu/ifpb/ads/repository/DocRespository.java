@@ -11,4 +11,6 @@ import br.edu.ifpb.ads.entity.Doc;
  */
 public interface DocRespository extends CrudRepository<Doc, String>{
 	
+	
+	
 }
